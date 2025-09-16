@@ -100,4 +100,4 @@ You can explore the interactive version of the dashboard here:
 
 ## 📌 Author
 
-Created by **\SUBODHIT CHOUHAN** as part of a Tableau data visualization project.
+Created by **SUBODHIT CHOUHAN** as part of a Tableau data visualization project.
