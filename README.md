@@ -14,10 +14,10 @@ It helps in analyzing trends, identifying best-performing categories, and suppor
 <img width="1999" height="1124" alt="Car Sales Dashboard" src="https://github.com/user-attachments/assets/57645511-6231-49a7-99ca-4a65839192e6" />
 
 
-🌐 Live Dashboard
+## 🌐 Live Dashboard
+You can explore the interactive version of the dashboard here:  
+---> [Car Sales Dashboard on Tableau Public](https://public.tableau.com/views/CarSalesDashboard_17580179076030/CarSalesDashboard)
 
-You can explore the interactive version of the dashboard here:
-👉 Car Sales Dashboard on Tableau Public
 ---
 
 ## 🔍 Analysis Overview
